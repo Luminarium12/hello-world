@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-hello deadline~
+I'm new here, and I really dont know why I'm here.
